@@ -36,7 +36,7 @@
   /* A very simple/lazy fix to get toolbar item colors to look good on a dark background */
   .goog-toolbar-button,
   .goog-toolbar-toggle-button,
-  .goog-toolbar-menu-button:not([id="textColorButton"]),
+  .goog-toolbar-menu-button,
   .goog-toolbar-combo-button,
   .docs-icon-folder-solid,
   #docs-equationtoolbar{
