@@ -40,8 +40,8 @@
   .goog-toolbar-combo-button,
   .docs-icon-folder-solid,
   #docs-equationtoolbar{
-    -webkit-filter: invert(0.8) !important;
-    filter: invert(0.8) !important;
+    -webkit-filter: invert(0.9) !important;
+    filter: invert(0.9) !important;
   }
 
 /* Fix for equation toolbar. The filter breaks all the buttons. */
