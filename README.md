@@ -1,4 +1,7 @@
 # google-docs-monokai
+
+![Screenshot](https://i.imgur.com/HGHnIOO.png)
+
 https://userstyles.org/styles/150408/google-docs-monokai-dark-background
 
 ## What is this?
