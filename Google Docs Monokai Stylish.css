@@ -29,9 +29,6 @@
     background-color: #191A18 !important;
     box-shadow: none !important;
   }
-  .docs-material-appbar #docs-header .docs-titlebar-buttons {
-    background-color: #191A18;
-  }
   
   /* Toolbar's vertical dividers */
   .goog-toolbar-separator.goog-inline-block{border-left: 1px solid #191A18 !important;}
@@ -58,11 +55,6 @@
   
   /* Document drop-shadow removal */
    .kix-page-paginated{box-shadow: none !important;} 
-
-  /* remove dashed line for page breaks */
-.kix-page-compact::before {
-    border-style: none;
-}
 
   /* Ruler tweaks */
   #kix-ruler{border-bottom: 1px solid transparent !important;}
@@ -138,3 +130,7 @@
   .jfk-textinput {
     border-color: #191A18;
   }
+
+.docs-material #docs-header .docs-titlebar-buttons {
+    background-color: #191A18;
+}
